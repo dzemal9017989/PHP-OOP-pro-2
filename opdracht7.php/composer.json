@@ -1,0 +1,15 @@
+{
+    "name": "dzema/opdracht7.php",
+    "autoload": {
+        "psr-4": {
+            "Schooltrip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dzemal9017989",
+            "email": "dzemal.nikocevic@gmail.com"
+        }
+    ],
+    "require": {}
+}
